@@ -1,3 +1,1 @@
-# My CV
-
-## Name: Mariya Dedkova
+# rsschool-cv
