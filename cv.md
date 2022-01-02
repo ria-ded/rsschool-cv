@@ -2,7 +2,7 @@
 
 **Name:** Dedkova Mariya
 
-**Contacts: **
+**Contacts:**
 * phone: +375336501769
 * email: ria.dedkova@gmail.com
 
