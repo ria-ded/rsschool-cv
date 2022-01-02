@@ -1,7 +1,5 @@
 # CV Dedkova
 
-![Profile photo](C:\Users\Мария Дедкова\OneDrive\Документы\IMG_2549 "Profile photo")
-
 **Name:** Dedkova Mariya
 
 **Contacts: **
@@ -11,7 +9,7 @@
 **About:**
 I work as a ux/ui designer. I am studying front-end to better understand my work. Also not ruling out a full transition into programming. I've had experience with programming via console in C++ as part of training projects.
  
-**Languages:*
+**Languages:**
 1. Russian: fluent;
 2. English: B2;
 3. French: B1.
