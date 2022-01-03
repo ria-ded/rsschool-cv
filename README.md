@@ -1,3 +1,3 @@
 # rsschool-cv
 
-[CV Dedkova link](https://github.com/ria-ded/rsschool-cv/blob/gh-pages/cv.md "CV link")
+[CV Dedkova link](https://ria-ded.github.io/rsschool-cv/ "CV link")
