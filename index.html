@@ -1,12 +1,88 @@
 <!DOCTYPE html>
-<html lang="eng">
+<html lang="en">
     <head>
         <meta charset="UTF-8">
-        <title>CV</title>
+        <title>cv</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="stylesheet" href="style.css">
+        <link rel="icon" href="assets/favicon.ico">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;600&display=swap" rel="stylesheet">
     </head>
     <body>
-        <div>Maria</div>
+        <header class="header">
+            <nav class="nav">
+                <ul class="nav-list">
+                    <li class="nav-item"><a href="#profile" class="nav-link">Profile</a></li>
+                    <li class="nav-item"><a href="#contacts" class="nav-link">Contacts</a></li>
+                    <li class="nav-item"><a href="#about" class="nav-link">About</a></li>
+                    <li class="nav-item"><a href="#languages" class="nav-link">Languages</a></li>
+                    <li class="nav-item"><a href="#education" class="nav-link">Education</a></li>
+                    <li class="nav-item"><a href="#code" class="nav-link">Code</a></li>
+                </ul>
+            </nav>
+        </header>
+        <main class="main">
+            <section class="section" id="profile">
+                <h1 class="section-title">Mariya Dedkova</h1>
+                <img src="./assets/IMG_2549.jpg" alt="Profile photo" width="100%">
+            </section>
+            <div class="container">
+                <section class="section" id="contacts">
+                    <h2>Contacts:</h2>
+                    <ul>
+                        <li>
+                            <b>phone:</b> +375336501769
+                        </li>
+                        <li>
+                            <b>email:</b> ria.dedkova@gmail.com
+                        </li>
+                    </ul>
+                </section>
+                <section class="section" id="about">
+                    <h2>About:</h2>
+                    <p> I work as a ux/ui designer. I am studying front-end to better understand my work. Also not ruling out a full transition into programming. I've had experience with programming via console in C++ as part of training projects.</p>
+
+                </section>
+                <section class="section" id="languages">
+                    <h2>Languages:</h2>
+                    <ul>
+                        <li>
+                            <b>Russian:</b> fluent;
+                        </li>
+                        <li>
+                            <b>English:</b> B2;
+                        </li>
+                        <li><b>French:</b> B1.</li>
+                    </ul>
+                </section>
+                <section class="section" id="education">
+                    <h2>Education:</h2>
+                    <p>BSEU, Economic Informatics, 2016-2020</p>
+                </section>
+                <section class="section" id="code">
+                    <h2>Code example:</h2>
+                    <ol>
+                        <li>
+                            <a href="./assets/login.md">Login page </a>
+                        </li>
+                        <li>
+                            <a href="./assets/onboarding.md">Onboarding </a>
+                            
+                        </li>
+                        <li>
+                            <a href="./assets/style.md">Styles </a>
+                        </li>
+                    </ol>
+                </section>
+            </div>
+        </main> 
+        <footer class="footer">
+            <section class="section">
+                <span>2021</span> <a href="https://github.com/ria-ded"> Ria-ded</a>
+            </section>
+            <a href="https://rs.school/js/"><img src="./assets/logo rss.png" alt="rsslogo" width="48" height="32"></a>
+        </footer>
     </body>
 </html>
