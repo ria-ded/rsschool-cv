@@ -71,11 +71,18 @@ p{
 }
 .footer{
     display: flex;
-    justify-content: center;
-    align-items: center;
     height: 80px;
     background: rgb(0, 0, 0);
-    padding: 16px 80px;
+    padding: 16px 120px;
     color: white;
     text-decoration: none;
+}
+.footer > section{
+    flex-grow: 1;
+    justify-content: space-between;
+
+}
+.footer > a{
+    text-decoration: none;
+    color: white;
 }
